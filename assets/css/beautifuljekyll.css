@@ -481,7 +481,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
+  color: #1DBDC4;
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
@@ -568,7 +568,7 @@ footer .footer-custom-content {
 }
 
 .blog-tags span {
-  color: #404040;
+  color: #1DBDC4;
   opacity: 0.8;
 }
 
