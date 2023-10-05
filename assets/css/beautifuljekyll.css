@@ -22,7 +22,6 @@ h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 500;
   line-height: 1.1;
-  color: black;
 }
 h1 {
   font-size: 2.25rem;
@@ -41,7 +40,7 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 a {
-  color: 3B2ED9;
+  color: black;
 }
 a:hover,
 a:focus {
