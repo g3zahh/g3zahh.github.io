@@ -45,7 +45,7 @@ y Seguridad Ofensiva
 
 ### [Desing 3]
 - **Puesto:** Prácticas Verano
-- **Fechas:** 08/18 - 09/18
+- **Fechas:** 07/18 - 09/18
 - **Descripción:** Estuve trabajando justo antes de empezar la carrera, adquiriendo conocimientos en programación con java, bases de datos y sobretodo de hardware.
 
 ### [Electrosam]
