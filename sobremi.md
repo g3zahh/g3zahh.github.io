@@ -86,6 +86,6 @@ y Seguridad Ofensiva
 
 
 ## Intereses
-- Como bien he dicho en la descripción, tengo interés en mejorar día a día y ser constante en el trabajo para adquirir nuevos conocimientos, sacarme certifiaiones y ayudar a la comunidad.
+- Como bien he dicho en la descripción, tengo interés en mejorar día a día y ser constante en el trabajo para adquirir nuevos conocimientos, sacarme certificaciones y ayudar a la comunidad.
 
 
